@@ -42,10 +42,10 @@ def play_game():
         if guess in guessed_letters:
             print("You've already guessed that letter. Try again.")
             continue  # Prompt the user to enter a different letter if they
-            have already guessed it
+            # have already guessed it
 
         guessed_letters.append(guess)  # Add the guessed letter to the list of
-        guessed letters
+        # guessed letters
 
         if guess not in word:
             attempts_left -= 1
@@ -58,4 +58,4 @@ def play_game():
             return
 
     print(f"Game over! The word was: {word}")  # Reveal the word if the user
-    runs out of attempts or wins the game
+    # runs out of attempts or wins the game
