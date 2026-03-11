@@ -65,3 +65,9 @@ Successfully deployed to Github. Heroku is still a problem.
 ChatGPT for suggestions on various projects to create
 Copilot in VS Code suggesting code suggestions
 DeepSeek helped when I got stuck and did not know how to continue. Used in areas of doubt such as words_service.py script.
+CodeInstitute Linter to confirm all Python code was correct
+Youtube had a great role in helping me determine how to create the project and what I could be able to accumplish
+
+My mother because she asked me to be included in the README.md. She has been a great help in terms or moral support and without her, I would not have been so optimistic in creeating this project
+
+
