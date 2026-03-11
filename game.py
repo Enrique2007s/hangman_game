@@ -26,20 +26,24 @@ def play_game():
         display_word(word, guessed_letters)
         guess = input("Enter a letter: ").lower().strip()
 
+        if len(guess) != 1 or not guess.isalpha():
+            print("Please enter a single letter.")
+            continue
+
         if guess in guessed_letters:
-            print("You already guessed that letter. Try again.")
+            print("You've already guessed that letter. Try again.")
             continue
 
         guessed_letters.append(guess)
 
-        if guess in word:
-            print("Good guess!")
-        else:
+        if guess not in word:
             attempts_left -= 1
             print(f"Wrong guess! Attempts left: {attempts_left}")
+        else:
+            print(f"Good guess!")
 
         if all(letter in guessed_letters for letter in word):
             print(f"Congratulations! You've guessed the word: {word}")
-            break
-    else:
-        print(f"Game over! The word was: {word}")
+            return
+
+    print(f"Game over! The word was: {word}")
