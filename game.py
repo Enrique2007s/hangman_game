@@ -18,6 +18,11 @@ def display_word(word, guessed_letters):
     print("\nCurrent word: ",  display.strip())
 
 def play_game():
+    """
+    This function contains the main game loop for Hangman.
+    It initializes the game state, handles user input,
+    and updates the game state based on the user's guesses.
+    """
     word = get_word()
     guessed_letters = []
     attempts_left = MAX_ATTEMPTS
@@ -26,15 +31,16 @@ def play_game():
         display_word(word, guessed_letters)
         guess = input("Enter a letter: ").lower().strip()
 
+# Validate user input
         if len(guess) != 1 or not guess.isalpha():
             print("Please enter a single letter.")
-            continue
+            continue # Prompt the user to enter a valid letter if the input is invalid
 
         if guess in guessed_letters:
             print("You've already guessed that letter. Try again.")
-            continue
+            continue # Prompt the user to enter a different letter if they have already guessed it
 
-        guessed_letters.append(guess)
+        guessed_letters.append(guess) # Add the guessed letter to the list of guessed letters
 
         if guess not in word:
             attempts_left -= 1
@@ -46,4 +52,4 @@ def play_game():
             print(f"Congratulations! You've guessed the word: {word}")
             return
 
-    print(f"Game over! The word was: {word}")
+    print(f"Game over! The word was: {word}") # Reveal the word if the user runs out of attempts or wins the game
