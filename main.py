@@ -1,5 +1,6 @@
 from game import play_game
 
+
 def main():
     """
     This is the main function that starts the Hangman game.
@@ -10,6 +11,7 @@ def main():
     print("Good luck!")
     print("-----------------------------------\n")
     play_game()
+
 
 if __name__ == "__main__":
     main()
