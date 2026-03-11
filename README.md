@@ -36,7 +36,7 @@ I have manually tested the project by doing the following:
 
 Made sure all errors were given correct try statements.
 
-### pep8 Testing
+### Validator Testing
 
 game.py
 <img width="1087" height="799" alt="image" src="https://github.com/user-attachments/assets/62f45d21-ab63-44d6-9884-d05ab92e9482" />
@@ -51,16 +51,11 @@ words_service.py
 ## Bugs
 No known bugs found.
 
-## Validator Testing
-
-As shown before, no erors were shown in the CodeInstitute Python Linter.
-
 # Deployment
 
 Successfully deployed to Github. Heroku is still a problem.
 
-
-#Credits
+# Credits
 
 ChatGPT for suggestions on various projects to create
 Copilot in VS Code suggesting code suggestions
@@ -69,5 +64,6 @@ CodeInstitute Linter to confirm all Python code was correct
 Youtube had a great role in helping me determine how to create the project and what I could be able to accumplish
 
 My mother because she asked me to be included in the README.md. She has been a great help in terms or moral support and without her, I would not have been so optimistic in creeating this project
+
 
 
