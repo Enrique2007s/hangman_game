@@ -60,6 +60,9 @@ No known bugs found.
 Successfully deployed to Github. Successfully deployed to Heroku.
 Heroku was a nightmare, so much so that I needed help from one of my developer mates. 
 
+Heroku Deployment:
+First, you need a Heroku account and pay for the credits. Then, you need to connect with github in the deployment section. Then you need to connect the github repo in with Heroku. Then you need two buildpacks (Heroku/Python and Heroky/nodejs) and configure your config. vars. Once done, go to the deploy part and click deploy branch. It opens up another page with the project made.
+
 # Credits
 
 ChatGPT for suggestions on various projects to create
@@ -78,6 +81,7 @@ The project was turned in late. The reason for this is because I had no idea how
 I have learnt that it is always okay to ask for help. There is no shame in being unknowledgeable about something, the real shame is in staying unknowledgeable.
 
 Lastly, in the notes from the assessor, I would like to know if this project had not been turned in late, what grade I would have gotten(pass, merit, or distinction).
+
 
 
 
