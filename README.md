@@ -64,7 +64,7 @@ Heroku was a nightmare, so much so that I needed help from one of my developer m
 
 ChatGPT for suggestions on various projects to create
 Copilot in VS Code suggesting code suggestions
-DeepSeek helped when I got stuck and did not know how to continue. Used in areas of doubt such as words_service.py script. Furthermore, DeepSeek helped me try to deploy my project to Heroku... Unsuccessfuly
+DeepSeek helped when I got stuck and did not know how to continue (example: some of the API use and coding suggestions for beter python codig conventions). Used in areas of doubt such as words_service.py script. Furthermore, DeepSeek helped me try to deploy my project to Heroku... Unsuccessfuly
 CodeInstitute Linter to confirm all Python code was correct
 Youtube had a great role in helping me determine how to create the project and what I could be able to accumplish wiht just Python
 
@@ -78,6 +78,7 @@ The project was turned in late. The reason for this is because I had no idea how
 I have learnt that it is always okay to ask for help. There is no shame in being unknowledgeable about something, the real shame is in staying unknowledgeable.
 
 Lastly, in the notes from the assessor, I would like to know if this project had not been turned in late, what grade I would have gotten(pass, merit, or distinction).
+
 
 
 
