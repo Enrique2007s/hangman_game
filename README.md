@@ -13,12 +13,14 @@ If you guess all the letters correctly, you win! If not, you lose.
 ## Features
 
 1-) Random word generation
+
 Words are not always the same thanks to an API used to generate random words.
 If the API fails, there is a list of 20 words where the PC can chose randomly for the player.
 
 <img width="384" height="207" alt="image" src="https://github.com/user-attachments/assets/172a3862-8bba-4995-a75c-7b0c076918ff" />
 
 2-) Input Validation and error-checking
+
 You cannot enter repeated letters, numbers, or words. If you add a space, it will be automatically removed.
 
 <img width="369" height="283" alt="image" src="https://github.com/user-attachments/assets/3eb19abf-e254-40e0-97ae-622864e339e3" />
@@ -76,4 +78,5 @@ The project was turned in late. The reason for this is because I had no idea how
 I have learnt that it is always okay to ask for help. There is no shame in being unknowledgeable about something, the real shame is in staying unknowledgeable.
 
 Lastly, in the notes from the assessor, I would like to know if this project had not been turned in late, what grade I would have gotten(pass, merit, or distinction).
+
 
