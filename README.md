@@ -36,6 +36,8 @@ I have manually tested the project by doing the following:
 
 Made sure all errors were given correct try statements.
 
+Had other people try to break the game(unsuccessfully)
+
 ### Validator Testing
 
 game.py
@@ -53,17 +55,25 @@ No known bugs found.
 
 # Deployment
 
-Successfully deployed to Github. Heroku is still a problem.
+Successfully deployed to Github. Successfully deployed to Heroku.
+Heroku was a nightmare, so much so that I needed help from one of my developer mates. 
 
 # Credits
 
 ChatGPT for suggestions on various projects to create
 Copilot in VS Code suggesting code suggestions
-DeepSeek helped when I got stuck and did not know how to continue. Used in areas of doubt such as words_service.py script.
+DeepSeek helped when I got stuck and did not know how to continue. Used in areas of doubt such as words_service.py script. Furthermore, DeepSeek helped me try to deploy my project to Heroku... Unsuccessfuly
 CodeInstitute Linter to confirm all Python code was correct
-Youtube had a great role in helping me determine how to create the project and what I could be able to accumplish
+Youtube had a great role in helping me determine how to create the project and what I could be able to accumplish wiht just Python
 
 My mother because she asked me to be included in the README.md. She has been a great help in terms or moral support and without her, I would not have been so optimistic in creeating this project
 
+## Notes
+The project was turned in late. The reason for this is because I had no idea how to deploy to Heroku, even with Tutor support, it was difficult to understand what they meant. I apologise for this unprofessional action. 
 
+## What I have learnt
+
+I have learnt that it is always okay to ask for help. There is no shame in being unknowledgeable about something, the real shame is in staying unknowledgeable.
+
+Lastly, in the notes from the assessor, I would like to know if this project had not been turned in late, what grade I would have gotten(pass, merit, or distinction).
 
