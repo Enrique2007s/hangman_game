@@ -45,7 +45,7 @@ Had other people try to break the game(unsuccessfully)
 game.py
 <img width="1087" height="799" alt="image" src="https://github.com/user-attachments/assets/62f45d21-ab63-44d6-9884-d05ab92e9482" />
 
-main.py
+run.py
 <img width="1169" height="776" alt="image" src="https://github.com/user-attachments/assets/04a6ee31-eb3b-4e4a-8afa-37c41735fe6d" />
 
 words_service.py
@@ -78,5 +78,6 @@ The project was turned in late. The reason for this is because I had no idea how
 I have learnt that it is always okay to ask for help. There is no shame in being unknowledgeable about something, the real shame is in staying unknowledgeable.
 
 Lastly, in the notes from the assessor, I would like to know if this project had not been turned in late, what grade I would have gotten(pass, merit, or distinction).
+
 
 
